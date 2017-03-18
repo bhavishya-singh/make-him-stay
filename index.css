@@ -27,3 +27,7 @@
 	overflow: hidden;
 	box-sizing: border-box;
 }
+#description{
+	position: absolute;
+	top: 405px;
+    left: 50px;
