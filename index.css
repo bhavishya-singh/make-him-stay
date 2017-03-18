@@ -1,0 +1,29 @@
+#gameboard{
+	height: 400px;
+	width: 700px;
+	background-color: darkgrey;
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+}
+#gamer{
+	height: 50px;
+	width: 50px;
+	background-color: darkblue;
+	position: absolute;
+	box-sizing: border-box;
+}
+#gamefield{
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	border: 1px dashed black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: lightgrey;
+	overflow: hidden;
+	box-sizing: border-box;
+}
